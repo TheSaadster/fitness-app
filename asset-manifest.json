@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fitness-app/static/css/main.49db6794.css",
+    "main.js": "/fitness-app/static/js/main.10902125.js",
+    "static/media/banner.png": "/fitness-app/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/fitness-app/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/fitness-app/index.html",
+    "main.49db6794.css.map": "/fitness-app/static/css/main.49db6794.css.map",
+    "main.10902125.js.map": "/fitness-app/static/js/main.10902125.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49db6794.css",
+    "static/js/main.10902125.js"
+  ]
+}
